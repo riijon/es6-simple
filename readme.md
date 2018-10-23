@@ -1,4 +1,4 @@
-# ES6記法のお勉強ディレクトリ
+# ES6記法のお勉強
 
 ## browsersyncについて
 `browser-sync init`で設定ファイルの作成ができる
